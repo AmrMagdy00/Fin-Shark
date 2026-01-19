@@ -2,8 +2,9 @@
 
 الملفات:
 
-- `appsettings.json`: إعدادات التشغيل الأساسية
-- `appsettings.Development.json`: Override لإعدادات Development (حاليًا logging فقط)
+- `appsettings.json`: إعدادات التشغيل الأساسية (محلي فقط، وموجود في `.gitignore`)
+- `appsettings.Development.json`: Override لإعدادات Development (محلي فقط)
+- `appsettings.Example.json`: مثال آمن مرفوع على GitHub، تقدر تنسخه وتعدّل عليه محليًا
 
 ## ConnectionStrings
 
