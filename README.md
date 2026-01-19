@@ -2,6 +2,12 @@
 # Overview
 FinShark is a powerful .NET Core web application that implements authentication and authorization through **ASP.NET Identity** and **JWT**. It utilizes the **repository pattern** and **dependency injection** to ensure a clean architecture, effectively separating the business logic from the data access layer.
 
+## Documentation
+
+راجع ملفات الشرح التفصيلية داخل فولدر `docs/`:
+
+- `docs/00-INDEX.md` (نقطة البداية)
+
 ## Key Features
 - **Authentication & Authorization**: Secure user authentication and role-based authorization using ASP.NET Identity and JWT tokens.
 - **Repository Pattern**: Implements the repository pattern for efficient data access and management, promoting separation of concerns.
